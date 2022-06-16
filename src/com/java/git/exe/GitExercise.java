@@ -18,4 +18,8 @@ public class GitExercise {
 
 	}
 
+	public void exampleMethod() {
+
+	}
+
 }
